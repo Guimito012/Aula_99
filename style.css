@@ -1,0 +1,23 @@
+.background
+{
+    background-image:url(selfie.png);
+}
+
+h4
+{
+ background-color:rgb(0, 0, 0);
+ font-size: 27px;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1
+{
+font-size: 40px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#camera
+{
+width:360px;
+height:250px;
+border:1px solid gray;
+}
